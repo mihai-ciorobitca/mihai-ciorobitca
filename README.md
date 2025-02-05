@@ -1,3 +1,5 @@
+Meditatii.ro       : https://github.com/mihai-ciorobitca/meditatii
+
 Network Studio     : https://networkstudio.store/
 
 Netflex Studio     : https://netflex-studio.vercel.app/
